@@ -1,21 +1,14 @@
-MIT License
+# Creative Commons Attribution-NonCommercial (CC BY-NC) License
 
-Copyright (c) 2024 Sean Prunka
+This work is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+## Terms
+- **Non-Commercial Use Only**: This project, including all code and associated materials, is provided strictly for non-commercial use.
+- **Attribution Required**: You must give appropriate credit when sharing or adapting the materials.
+- **No Warranty**: This software is provided "as is," without warranty of any kind, express or implied.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## Dark Pack Agreement Notice
+This project includes content related to the World of Darkness intellectual property owned by Paradox Interactive. As such, all parts of the project that reference World of Darkness materials must comply with the [Dark Pack Agreement](https://www.paradoxinteractive.com/games/world-of-darkness/community/dark-pack-agreement). This includes non-commercial use, community-based sharing, and adherence to Paradox Interactive’s guidelines.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## Disclaimer
+The original author of this code shall not be held liable for any unauthorized or unintended commercial use by others. Users are responsible for ensuring that they comply with the terms of this license and the Dark Pack Agreement.
